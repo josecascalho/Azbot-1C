@@ -6,5 +6,5 @@ with the less error as possible. Motors have enconders (odometry)
 #ver. 1.0
 Two PID controllers independent from each other, one for each motor drive.
 #ver. 2.0 
-Add a third PID to adjust differences 
-# ver. 3.0 Add a IMU device 
+Add a third PID to adjust differences
+#ver. 3.0 Add a IMU device 
